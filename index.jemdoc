@@ -1,16 +1,18 @@
 # jemdoc:{index.html}, nofooter  
-==Lei Xing 
+==Lei,Xing 
 
 ~~~
-{}{img_left}{bio.jpg}{alt text}{120}{160}{http://people.kth.se/~euhanna/}
-B.S.\n Software Engineering, \n[http://en.whu.edu.cn/ Wuhan University (WHU)]\n
-Wuhan, Hubei Provinve, P.R. China\n
+{}{img_left}{personal_info/bio.jpg}{alt text}{120}{160}{http://people.kth.se/~euhanna/}
+B.S.\n
+Software Engineering \n 
+Wuhan University\n 
+Wuhan, Hubei Province, P.R. China\n \n
 Mobile: (+86)156-265-01150   \n
-Email: whuxinglei@163.com
+Email: [whuxinglei@hotmail.com]
 ~~~
 
 == About Me
-I received the Bachelor’s Degree in software engineering from Wuhan University in June 2013. In July 2013, I began to work as a software engineer in Ping-an Technology, Shenzhen. I was promoted to senior developer in 2016 and supervised a team of 8 people for system developing. At present, I have resigned and would like to further my study in the field of computer science.  
+I received the Bachelor’s Degree in software engineering from [http://en.whu.edu.cn/ Wuhan University] in June 2013. In July 2013, I began to work as a software engineer in [http://tech.pingan.com/en/ Ping An Technology (Shenzhen) Co., Ltd.], which is the technology subsidiary of [http://www.pingan.cn/en/index.shtml Ping An]( Top 3 in insurance field of China ) . During the work period, I participated in the establishment of the Policy Administration Service System, an insurance system based on tens of millions of policy data and served as a core system for Ping An auto insurance development, from scratch. In 2015, I was promoted to senior developer and supervised a team of 8 people for system developing. At present, I have resigned and would like to further my study in the field of computer science.  
 
 == Research Interests
 My research interests include 
@@ -20,12 +22,7 @@ My research interests include
 - Machine Learning
 
 
-== Research Experience & Projects 
-*Policy Administration Service System （abbreviated as PAS）* （July 2013-July 2017）\n/Senior developer, Pingan technology, Shenzhen /                    \n
-*Technology stack: AngularJS & Spring & IBatis & Oracle*\n- Involved in building PAS from 0 to 1, including system design, coding and unit test- Responsible for server-side interfaces design for self-service modification module of PAS- Responsible for database upgrade based on Oracle from version 9i to 10g for PAS- Supervising team of 8 people for system developing- Responsible for new employees training and documentation writing*Group buying guidance* (Mar.2013-June 2013)\n/Server side developer, Qianyi website(graduation project), Wuhan/  \n   - Research on mechanism of search engine Lucene- Introduced IKAnalyzer Chinese words identification package to improve the weakness of inaccuracy of search Chinese words in Lucene- Coding of the website search engine of Qianyi
+== Technical Skills- Experienced in Java Web programming for RESTful framework, and use of Spring Framework- Familiar with common data structures ,algorithms and design patterns- Familiar with Oracle database. Experienced with programming with SQL and developing with PL/SQL- Able to use HTML\\CSS\\JavaScript and AngularJS for front-end programming- Able to use mainstream programming languages, including C, C++ and Python- Adapt to agile development- Possess management experience 
 
-== Information Download
-- [cv_LeiXing.pdf CV]
-- [certificate.pdf Degree certificate]
-- [transcript.pdf Transcript]
-- [GPA.pdf GPA]
+== CV Download
+If you are interested in me, please click [personal_info/LeiXing_CV.pdf here] to download my CV for more details.
