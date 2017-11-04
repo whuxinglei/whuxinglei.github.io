@@ -1,8 +1,8 @@
-# jemdoc:{index.html}, nofooter  
-==Lei,Xing 
+# jemdoc:menu{MENU}{index.html}, nofooter  
+==Xing Lei (雷星)
 
 ~~~
-{}{img_left}{personal_info/bio.jpg}{alt text}{120}{160}{http://people.kth.se/~euhanna/}
+{}{img_left}{personal_info/bio.jpeg}{alt text}{120}{160}{https://whuxinglei.github.io/}
 B.S.\n
 Software Engineering \n 
 Wuhan University\n 
@@ -12,17 +12,20 @@ Email: [whuxinglei@hotmail.com]
 ~~~
 
 == About Me
-I received the Bachelor’s Degree in software engineering from [http://en.whu.edu.cn/ Wuhan University] in June 2013. In July 2013, I began to work as a software engineer in [http://tech.pingan.com/en/ Ping An Technology (Shenzhen) Co., Ltd.], which is the technology subsidiary of [http://www.pingan.cn/en/index.shtml Ping An]( Top 3 in insurance field of China ) . During the work period, I participated in the establishment of the Policy Administration Service System, an insurance system based on tens of millions of policy data and served as a core system for Ping An auto insurance development, from scratch. In 2015, I was promoted to senior developer and supervised a team of 8 people for system developing. At present, I have resigned and would like to further my study in the field of computer science.  
+I received the Bachelor’s Degree in software engineering from [http://en.whu.edu.cn/ Wuhan University] in June 2013. In July 2013, I began to work as a software engineer in [http://tech.pingan.com/en/ Ping An Technology (Shenzhen) Co., Ltd.], which is the technology subsidiary of [http://www.pingan.cn/en/index.shtml Ping An]( *Top 3* in the insurance field of China ) . During the work period, I participated in the establishment of the Policy Administration Service System, an insurance system based on tens of millions of policy data and served as a core system for Ping An auto insurance development, from scratch. In 2015, I was promoted to *senior software engineer* and supervised a team of 8 people for system developing. At present, I have resigned and would like to further my study in the field of computer science. 
+
 
 == Research Interests
 My research interests include 
 - Software Engineering  
-- Data Mining
-- Information Security
+- Database
+- Big Data
 - Machine Learning
 
+== Honors & Awards
+- Patent (First Author)-Design of accumulating query interface
+- Patent (First Author)-Design of environment isolation algorithm
+- Patent (First Author)-Improvement on green travel algorithm
+- Award for outstanding patents, Ping An Technology, Shenzhen 
+- Third Place in Outstanding Graduation Design, International School of Software, Wuhan University. （*3 out of 60 groups*）== Technical Skills- Experienced in Java Web programming for RESTful framework, and use of Spring Framework- Familiar with common data structures ,algorithms and design patterns- Familiar with Oracle database. Experienced with programming with SQL and developing with PL/SQL- Able to use HTML, CSS, JavaScript and AngularJS for front-end programming- Able to use mainstream programming languages, including C, C++ and Python- Adapt to agile development- Possess management experience 
 
-== Technical Skills- Experienced in Java Web programming for RESTful framework, and use of Spring Framework- Familiar with common data structures ,algorithms and design patterns- Familiar with Oracle database. Experienced with programming with SQL and developing with PL/SQL- Able to use HTML\\CSS\\JavaScript and AngularJS for front-end programming- Able to use mainstream programming languages, including C, C++ and Python- Adapt to agile development- Possess management experience 
-
-== CV Download
-If you are interested in me, please click [personal_info/LeiXing_CV.pdf here] to download my CV for more details.
